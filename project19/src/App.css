@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+form{
+  display: inline-block;
+  text-align: left;
+  border: 1px solid black;
+  background-color: antiquewhite;
+
+}
+h2{
+  color: blueviolet;
+}
+form div{
+  margin: 5px;
+  padding-left: 15px;
+}
+form label{
+  display: inline-block;
+  width: 150px;
+}
+.DOBWidth{
+  width: 170px;
+}
+.stateWidth{
+  width: 175px;
+}
+
+.signUpButton{
+  text-align: center;
+  position: relative;
+  top: 10px;
+ 
+}
+.paragraph{
+  position: relative;
+  top: 20px;
+
+  padding: 15px;
+}
+.picture{
+  width: 100px;
+  height: 120px;
+  object-fit: contain;
+}
+.imageSpan{
+  position: relative;
+  left: 150px;
+  font-size: 0.6rem;
+}
+button{
+  background-color: green;
+  color: white;
+  width: 100px;
+  height: 30px;
+  border-radius: 10px ;
+  border: 1px solid grey;
+
+}
